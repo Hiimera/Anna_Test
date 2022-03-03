@@ -8,4 +8,4 @@ Cette exploration doit permettre de réviser
 - [x] JavaScript
 - [ ] Emmet
 Mais également découvrir le fonctionnement de git.
-![](https://www.01gifs.com/smileys/reflexion/1.gif
+![](https://www.01gifs.com/smileys/reflexion/1.gif)
